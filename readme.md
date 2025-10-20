@@ -24,4 +24,4 @@
 Replace `"https://example.com"` with the website you want to convert.  
 Nativefier will automatically generate a folder with the standalone app executable.
 
-4. **Run your new Electron app**
+4. **Run your new Electron app, itll be inside the folder, home directory if location isnt specified**
