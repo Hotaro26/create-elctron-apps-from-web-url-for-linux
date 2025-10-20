@@ -1,4 +1,4 @@
-## Convert a Website into an Electron App on Arch Linux
+## Convert a Website into an Electron App on Arch Linux/Linux
 
 ### What is Nativefier?
 [Nativefier](https://github.com/nativefier/nativefier) is an open-source command-line tool that turns any web page URL into a standalone Electron desktop application. It basically wraps the site in an Electron shell, making it behave like a native app.
